@@ -41,3 +41,9 @@ This GitHub organization is part of our digital strategy and will evolve continu
 ---
 
 **Last updated**: _April 2025_
+
+---
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenR0Y2txM3JlZWthMWJ3Njd5bDRqcWJ6Z3lwb2V1c3BxbWxnZzVsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xax49C2FrJMaI/giphy.gif" alt="DevOps GIF" />
+</div>
